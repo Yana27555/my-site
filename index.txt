@@ -47,7 +47,8 @@
 
     <footer class="page-footer">
 	<div class="container">
-      +375291111242
+	<a class="footer-email" href="mailto:chakcon9@gmail.com">chakcon9@gmail.vom</a>
+	<a class="fotter-phone" href="tel:+375291111242">+375 29 111 12 42</a>
 	  </div>
     </footer>
   </body>
